@@ -1,4 +1,4 @@
-## Node.js with Postgres Example
+## Docker + nodejs + Postgresql Example
 
 <img
     src="ss.png"
